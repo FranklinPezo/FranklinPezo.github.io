@@ -67,16 +67,16 @@ const siteConfig: SiteConfig = {
     ],
     footerNavLinks: [
         {
-            text: 'A cerca de',
-            href: '/A cerca de'
+            text: 'About',
+            href: '/about'
         },
         {
-            text: 'Contacto',
-            href: '/contacto'
+            text: 'Contact',
+            href: '/contact'
         },
         {
-            text: 'Terminos',
-            href: '/terminos'
+            text: 'Terms',
+            href: '/terms'
         }
     ],
     socialLinks: [
