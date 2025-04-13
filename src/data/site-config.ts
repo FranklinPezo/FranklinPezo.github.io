@@ -53,8 +53,8 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
-            text: 'Proyectos',
-            href: '/proyectos'
+            text: 'Projects',
+            href: '/projects'
         },
         {
             text: 'Portafolio',
@@ -106,7 +106,7 @@ const siteConfig: SiteConfig = {
     },
     subscribe: {
         title: 'Suscríbete al boletín de Franklin',
-        text: 'Una actualización semanal. Todas las últimas publicaciones directamente en tu bandeja de entrada..',
+        text: 'Una actualización semanal. Todas las últimas publicaciones directamente en tu bandeja de entrada.',
         formUrl: '#'
     },
     postsPerPage: 8,
