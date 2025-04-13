@@ -53,8 +53,8 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
-            text: 'Projects',
-            href: '/projects'
+            text: 'Proyectos',
+            href: '/proyectos'
         },
         {
             text: 'Portafolio',
@@ -67,16 +67,16 @@ const siteConfig: SiteConfig = {
     ],
     footerNavLinks: [
         {
-            text: 'About',
-            href: '/about'
+            text: 'A cerca de',
+            href: '/A cerca de'
         },
         {
-            text: 'Contact',
-            href: '/contact'
+            text: 'Contacto',
+            href: '/contacto'
         },
         {
-            text: 'Terms',
-            href: '/terms'
+            text: 'Terminos',
+            href: '/terminos'
         }
     ],
     socialLinks: [
@@ -88,17 +88,14 @@ const siteConfig: SiteConfig = {
             text: 'Instagram',
             href: 'https://instagram.com/'
         },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
+        
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Franklin Pezo**, a web developer, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> ",
+        title: 'Hola y bienvenido a mi rincón de la web.',
+        text: "Soy Franklin Pezo Montesinos, estudiante universitario, desarrollador web, dedicandome a los ámbitos de la colaboración y la inteligencia artificial. Mi enfoque se basa en la intuición, la investigación justa y el uso de la estética como catalizador para productos excepcionales. Aprecio profundamente el software de alta gama, el diseño visual y los principios del crecimiento impulsado por el producto. Explora algunos de mis proyectos de programación en <a href='https://github.com/FranklinPezo'>GitHub</a> ",
         image: {
             src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: 'Una persona sentada en un escritorio frente a una computadora'
         },
         actions: [
             {
@@ -108,8 +105,8 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to Franklin Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
+        title: 'Suscríbete al boletín de Franklin',
+        text: 'Una actualización semanal. Todas las últimas publicaciones directamente en tu bandeja de entrada..',
         formUrl: '#'
     },
     postsPerPage: 8,
